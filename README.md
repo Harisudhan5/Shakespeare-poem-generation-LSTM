@@ -1,4 +1,4 @@
-# Shakespeare Sytle Text Generator
+# Shakespeare Sytle Text Generation
 
 
 ## Description
